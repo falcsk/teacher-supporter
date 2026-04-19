@@ -1,2 +1,1 @@
-# サンプル画像はローカルのみ管理
-.claude/samples/
+# サンプル画像はGitHubで管理する（.claude/samples/はトラッキング対象）
